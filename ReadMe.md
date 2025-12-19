@@ -74,25 +74,8 @@ You only need a web browser! No installations required.
 
    Simply open `index.html` in your web browser:
    
-   ```bash
-   # macOS
-   open index.html
-   
-   # Linux
-   xdg-open index.html
-   
-   # Windows
-   start index.html
-   ```
 
    Or use a local server (optional):
-   
-   ```bash
-   # Python 3
-   python -m http.server 8000
-   
-   # Then open http://localhost:8000
-   ```
 
 ---
 
@@ -202,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thanks to all the amazing people who have contributed to this project! ❤️
 
 <div align="center">
-  <a href="https://github.com/YOUR-USERNAME/open-source-demo/graphs/contributors">
+  <a href="https://github.com/samirkoirala/open-source-demo/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=YOUR-USERNAME/open-source-demo" />
   </a>
 </div>
